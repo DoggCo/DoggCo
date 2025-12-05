@@ -1,2 +1,1 @@
-# README.md
-sondre
+![Sondre](sondre.jpg)
